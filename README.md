@@ -30,7 +30,7 @@ AI Interview Coach is a modern, AI-powered platform designed to help developers 
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/dharshan47/ai-coding-coach.git)
     cd ai-interview-coach
     ```
 
